@@ -1,0 +1,92 @@
+.banner{
+    background-image:url('Banner\ Image.png');
+    height:600px;
+    width: 1320px;
+    justify-content: center;
+    background-size: cover;
+    background-position: center;
+    filter: brightness(0.5);
+    margin: 100px;
+    display: flex;
+    
+   
+}
+
+.banner-title{
+     color:white;
+     text-align: center;
+    position:absolute;
+    top:350px;
+    left:600px;
+     
+}
+.new{
+    font-size: 45px;
+    margin-bottom: 40px;
+    
+}
+.year{
+    font-size: 70px;
+    margin-bottom: 40px;
+}
+
+.main-part{
+    align-items: center;
+    text-align: center;
+}
+.parsent{
+    color:darkorange;
+    font-size: 70px;
+}
+.holiday{
+    color:darkorange;
+}
+
+.banner2{
+  background-image: url('./resources/Vectorrr.png');
+  height:600px;
+  width: 1320px;
+  justify-content: center;
+  background-size: cover;
+  background-position: center;
+  filter: brightness(0.5);
+  margin: 100px;
+  display: flex;
+}
+
+.banner2-title{
+
+    position:absolute;
+    top:1800px;
+    left:200px;
+    color:white
+}
+.well{
+    font-size: 50px;
+}
+
+
+.btn{
+    border: 0;
+}
+
+
+.red{
+    color:red;
+    font-weight: 700;
+    
+}
+.btn-just{
+    color: red;
+    border-radius: 3px;
+    background-color:aqua
+}
+
+.about{
+    align-items: center;
+    text-align: center;
+    background-color: antiquewhite;
+    margin: 200px;
+    padding: 50px;
+    font-size: 32px;
+}
