@@ -213,3 +213,9 @@
     bottom: -5400px;
     
 }
+
+.bordered-image{
+    border:8px solid red;
+    border-radius: 50%;
+    padding: 10px;
+}
